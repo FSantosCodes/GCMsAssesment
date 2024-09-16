@@ -1,8 +1,6 @@
 ## Assessing Annual and Monthly Precipitation Anomalies in Ecuador Bioregions Using WorldClim CMIP6 GCM Ensemble Projections and Dynamic Time Warping (in review)
 Fabián Santos*, José Jara, Nicole Acosta, Raúl Galeas, and Bert de Bièvre
 
-Fabián Santos*, José Jara, Nicole Acosta, Raúl Galeas, and Bert de Bièvre
-
 *Correspondence: ernestosantos@uti.edu.ec
 
 Key findings: 
