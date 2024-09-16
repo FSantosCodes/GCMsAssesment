@@ -1,4 +1,4 @@
-## Unraveling Precipitation Extremes: Assessment of CMIP6 GCMs and SSPs in Ecuador and Its Bioregional Context (in review)
+## Assessing Annual and Monthly Precipitation Anomalies in Ecuador Bioregions Using WorldClim CMIP6 GCM Ensemble Projections and Dynamic Time Warping (in review)
 Fabián Santos*, José Jara, Nicole Acosta, Raúl Galeas, and Bert de Bièvre
 
 Fabián Santos1*, José Jara23, Nicole Acosta4, Raúl Galeas5, and Bert de Bièvre5
